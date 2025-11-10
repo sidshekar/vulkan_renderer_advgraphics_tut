@@ -4,6 +4,7 @@
     "glm",
     "nlohmann-json",
     "tinygltf",
-    "vulkan"
+    "vulkan",
+    "vulkan-headers"
   ]
 }
